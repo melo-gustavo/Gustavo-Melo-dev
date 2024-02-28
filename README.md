@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working with web development.
-- 🌱 I’m currently learning Laravel/PHP/Vue.
-- 💬 Ask me about Laravel/PHP/Vue.
-- 📫 How to reach me: @guumelo.
-- 😄 Pronouns: he/his.
-- ⚡ Fun fact: I parachuted into this world and I'm in love.
+- 🌱 I’m currently learning Vue and Python with FastAPI/Java with Spring Boot.
 
 <div align="center">
   <a href="https://github.com/Gustavo-Melo-dev">
